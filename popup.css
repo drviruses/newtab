@@ -1,0 +1,29 @@
+body{
+    background-image: url('back1.jpg');
+}
+.hell{
+    font-family: "Consalas", Sans-serif;
+    font-size: 2em;
+    text-align: center;
+}
+
+.allbutt{
+     display: inline-block;
+}
+
+.cssbuttn{
+    margin: 5em;
+    background-color: #7934c9;
+    border-radius: 7px;
+    height: 30px;
+    width: 47px;
+}
+.cssbuttn:hover{
+    background-color: green;
+}
+.butt1{
+    align-content: center;
+    margin-left: 3em;
+    font-family: "Allerta Stencil", Sans-serif;
+    font-size: 2em;
+}

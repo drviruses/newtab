@@ -1,0 +1,15 @@
+{
+    "manifest_version": 2,
+    "name": "My CP",
+    "version": "0.1",
+    "description": "For Codeforces, this extension let you to create a Spreadsheet on Google Drive and it will keep track of time you spend over a question. What is the last verdict of your submission, tags, and rating as well.",
+    "icons":{
+        "128":"128.png",
+        "48":"48.png",
+        "16":"16.png"
+    },
+    "browser_action":{
+        "default_icon":"16.png",
+        "default_popup":"popup.html"
+    }
+}
