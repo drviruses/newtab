@@ -19,7 +19,9 @@
     "content_scripts": [
         {
             "matches": [
-                "<all_urls>"
+                "https://codeforces.com/",
+                "https://codechef.com/",
+                "https://atcoder.jp/"
             ],
             "run_at": "document_end",
             "js": [
@@ -32,7 +34,6 @@
     "permissions": [
         "https://codeforces.com/",
         "https://codechef.com/",
-        "https://atcoder.jp/",
-        "*://*/*"
+        "https://atcoder.jp/"
     ]
 }
