@@ -1,0 +1,10 @@
+.h{
+    font-family:'Lucida Console', monospace; 
+    font-weight: 400; 
+    font-size: 18px; 
+    color: white;
+}
+
+body {
+    background-image: url(binary.jpg);
+}
