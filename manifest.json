@@ -25,13 +25,13 @@
             "js": [
                 "jquery-3.5.1.min.js",
                 "fun.js"
-            ]
+            ],
+            "all_frames" : true
         }
     ],
     "permissions": [
-        "activeTab",
-        "storage",
-        "tabs",
-        "*://*/*"
+        "https://codeforces.com/",
+        "https://codechef.com/",
+        "https://atcoder.jp/"
     ]
 }

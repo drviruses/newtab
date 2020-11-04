@@ -1,4 +1,5 @@
 $('a').mousedown(function(){
-    alert($(this).attr('href'));
-   // window.open(this, "_black");
+    //alert($(this).attr('href'));
+    //alert("dr_virus");
+    window.open(this, "_black");
 });
